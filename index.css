@@ -1,8 +1,11 @@
 body {
-    background: #FFBA00;
-    font-family: 'Inconsolata', monospace;
-    text-align: center;
-  }
+  background-color: #FFBA00;
+  font-family: 'Inconsolata', monospace;
+  text-align: center;
+  margin: 0;
+  padding: 2rem 0;
+  width : 100%;
+}
  
   main {
     background: white;
@@ -15,3 +18,10 @@ body {
   h1 {
     margin: 3rem 1rem 6rem 1rem;
   }
+
+  #gallery {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: flex-start;
+}
