@@ -1,6 +1,6 @@
 # Museum App
 
-Starter kit with day 1 & 2 finished
+Starter kit with step 1 & 2 finished
 
 ## How to use
 
