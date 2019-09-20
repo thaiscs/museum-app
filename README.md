@@ -1,6 +1,6 @@
 # Museum App
 
-Starting point for Day 3 of the codaisseur Academy
+Starter kit with day 1 & 2 finished
 
 ## How to use
 
